@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "lint:ci": "prettier . --check",
+    "lint": "prettier . --write"
+  }
+}
